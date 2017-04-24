@@ -1,0 +1,8 @@
+[ 
+{ "id":"503930363","name": "Adan", "lastName1":"Carranza", "lastName2":"Alfaro", "email":"adan@gmail.com", "phone":"8566-6738", "description":"Soy encargado de fundamentos", "location":"Rio Frio", "type":"root","passsword":"adan" ,"picture": "pictures/usuario.jpg"},
+{ "id":"203450232","name": "Pablo", "lastName1":"Carranza", "lastName2":"Alfaro", "email":"pablo@gmail.com", "phone":"8566-6734", "description":"Soy encargado de matematicas", "location":"Rio Claro", "type":"user","passsword":"pablo","picture": "pictures/usuario.jpg"},
+{ "id":"301230456","name": "David", "lastName1":"Carranza", "lastName2":"Alfaro", "email":"david@gmail.com", "phone":"8566-6734", "description":"Soy encargado de matematicas", "location":"Rio Claro", "type":"user","passsword":"david","picture": "pictures/usuario.jpg"},
+{ "id":"117010943","name": "Kimberly", "lastName1":"Rivera", "lastName2":"Ulloa", "email":"kimpprive07@gmail.com", "phone":"5016-6829", "description":"Soy de Secretariado", "location":"Rio Claro", "type":"user","passsword":"kim","picture": "pictures/usuario.jpg"},
+{ "id":"504130763","name": "Pablo", "lastName1":"Carranza", "lastName2":"Alfaro", "email":"carranzap-1996@hotmail.com", "phone":"5016-6829", "description":"Ingeniero en sistemas de informacion", "location":"Rio Claro", "type":"user","passsword":"pablo","picture": "pictures/usuario.jpg"}
+
+]

@@ -1,0 +1,27 @@
+[
+{ "id":"504130763","puesto": "Informatica", "area":"Programacion", "experienciaLaboral":"5", "experrienciaDocencia":"0", "descripcion":"soy muy creativo", 
+"numeroReferencia1":"8566-6738", "numeroReferencia2":"2455-2323","salario":"100000"},
+
+
+{ "id":"203450232","puesto": "Administracion", "area":"Recursos humanos", "experienciaLaboral":"5", "experrienciaDocencia":"2", "descripcion":"soy muy creativo", 
+"numeroReferencia1":"8566-6738", "numeroReferencia2":"2455-2323","salario":"120000"},
+
+
+{ "id":"504130763","puesto": "RT", "area":"Recursos humanos", "experienciaLaboral":"5", "experrienciaDocencia":"2", "descripcion":"soy muy creativo", 
+"numeroReferencia1":"8566-6738", "numeroReferencia2":"2455-2323","salario":"120000"},
+
+
+{ "id":"203450232","puesto": "Administracion", "area":"Recursos humanos", "experienciaLaboral":"5", "experrienciaDocencia":"2", "descripcion":"soy muy creativo", 
+"numeroReferencia1":"8566-6738", "numeroReferencia2":"2455-2323","salario":"120000"},
+
+{ "id":"504130763","puesto": "Informatica", "area":"Matematica", "experienciaLaboral":"5", "experrienciaDocencia":"2", "descripcion":"soy muy creativo", 
+"numeroReferencia1":"8566-6738", "numeroReferencia2":"2455-2323","salario":"120000"},
+
+
+{ "id":"301230456","puesto": "Administracion", "area":"Recursos humanos", "experienciaLaboral":"5", "experrienciaDocencia":"2", "descripcion":"soy muy creativo", 
+"numeroReferencia1":"8566-6738", "numeroReferencia2":"2455-2323","salario":"120000"},
+
+{ "id":"117010943","puesto": "Secretariado", "area":"Mecanografia", "experienciaLaboral":"2", "experrienciaDocencia":"2", "descripcion":"Activa", 
+"numeroReferencia1":"8566-6738", "numeroReferencia2":"2455-2323","salario":"1201010"}
+
+]
